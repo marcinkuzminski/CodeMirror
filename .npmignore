@@ -9,3 +9,5 @@
 /mode/index.html
 .*
 bin
+
+/*node_artifacts
